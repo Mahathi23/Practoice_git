@@ -1,3 +1,3 @@
 # Practoice_git
 My first git
-author mahathi
+author mahathi raj d
